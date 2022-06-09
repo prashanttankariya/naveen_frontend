@@ -1,0 +1,66 @@
+
+
+
+			HTML- HYPERTEXT MARKUP LANGUAGE
+			------------------------------
+
+			BASIC TAGS WITH SYNTAX
+
+			HTML + HTML 5
+
+			OFFICIAL DOCUMENT
+			https://developer.mozilla.org/en-US/docs/Web/HTML
+
+			two types of tags
+
+			1. closing tags
+			2. empty tags
+
+			open editor - write code - save in folder
+			run in browser - 2 methods
+
+			1. direct browser access
+			2. right click and open with browser
+
+			while saving 
+
+			use camelCase		- dayOne	- basicTags
+			use snake_case		- day_one	- basic_tags
+
+			---------------
+			DAY 1		
+			-------------
+			CLASS WORK:
+
+				HEADING TAGS
+						- h1 to h6
+				PARAGRAPH TAGS
+						- paragraph
+				DEFINITION LIST AND DATA
+						- dl (definition list)
+							=> dt (definition title)
+							=> dd (definition data)
+
+				ORDER LIST AND UNORDER LIST
+					ol - order list
+						attributes => start,type - A,a,1,I,i
+					ul - un order list 
+						attributes => type- circle,square,disc
+					
+					
+				
+				ATTRIBUTES
+
+					ENHANCE - 
+
+				PROPERY="VALUE"
+
+
+
+
+							
+
+
+	
+
+
